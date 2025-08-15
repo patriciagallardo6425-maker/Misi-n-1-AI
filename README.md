@@ -1,2 +1,3 @@
-# Misi-n-1-AI
+# Mision-1-AI
 Trabajos varios temáticas AI
+Mi primer repositorio de AI
